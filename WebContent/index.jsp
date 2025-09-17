@@ -16,7 +16,7 @@ div.ex {
 </style>
 </head>
 <body>
-	<h1>Student Form</h1>
+	<h1>Student Registration Form</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="width: 50%">
